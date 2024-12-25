@@ -1,6 +1,4 @@
 
-# 👋 Hi, I'm Faraz Fallah!
-
 ## 🚀 About Me  
 I'm a **Python Developer** specializing in **Django**, passionate about building scalable web applications and writing clean, maintainable code. With a strong background in teamwork and a constant eagerness to learn, I thrive in dynamic environments.  
 
