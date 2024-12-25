@@ -26,7 +26,7 @@ I'm a **Python Developer** specializing in **Django**, passionate about building
 ## 🌍 Languages  
 - **English**: B2 Upper-Intermediate  
 - **Persian (Farsi)**: Native  
-- **Azerbaijani (Turkish)**: Native  
+- **Turkish**: Native  
 
 ## 📬 Contact Me  
 - **Email**: [farazfallah0@gmail.com](mailto:farazfallah0@gmail.com)  
