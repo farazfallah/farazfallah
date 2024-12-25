@@ -20,7 +20,7 @@ I'm a **Python Developer** specializing in **Django**, passionate about building
 
 ## 📚 Education & Courses  
 - **Maktab Sharif Coding Bootcamp**: Python & Django (400+ hours)  
-- **Tabriz University**: Bachelor's in Mechanical Engineering (2022 - Present)  
+- **Tabriz University**: Bachelor's in Mechanical Engineering
 - **Sampad Schools**: Completed guidance and high school education
 
 ## 🌍 Languages  
